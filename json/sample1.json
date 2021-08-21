@@ -1,0 +1,156 @@
+[
+  {
+    "shape": "Sphere",
+    "color": "Yellow",
+    "translate": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      10,
+      10,
+      10
+    ]
+  },
+  {
+    "shape": "Sphere",
+    "color": "Orange",
+    "translate": [
+      20,
+      0,
+      0
+    ]
+  },
+  {
+    "shape": "Sphere",
+    "color": "Orange",
+    "translate": [
+      30,
+      0,
+      5
+    ],
+    "scale": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "shape": "Sphere",
+    "color": "Cyan",
+    "translate": [
+      45,
+      0,
+      15
+    ],
+    "scale": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "shape": "Sphere",
+    "color": "Red",
+    "translate": [
+      70,
+      0,
+      5
+    ],
+    "scale": [
+      1.5,
+      1.5,
+      1.5
+    ]
+  },
+  {
+    "shape": "Sphere",
+    "color": "Brown",
+    "translate": [
+      100,
+      0,
+      20
+    ],
+    "scale": [
+      5,
+      5,
+      5
+    ]
+  },
+  {
+    "shape": "Sphere",
+    "color": "Yellow",
+    "translate": [
+      130,
+      0,
+      15
+    ],
+    "scale": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "shape": "Sphere",
+    "color": "Brown",
+    "translate": [
+      130,
+      0,
+      15
+    ],
+    "scale": [
+      6,
+      1,
+      6
+    ],
+    "rotate": [
+      30,
+      0,
+      30
+    ]
+  },
+  {
+    "shape": "Sphere",
+    "color": "Cyan",
+    "translate": [
+      155,
+      0,
+      0
+    ],
+    "scale": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "shape": "Sphere",
+    "color": "Blue",
+    "translate": [
+      180,
+      0,
+      15
+    ],
+    "scale": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "shape": "Sphere",
+    "color": "Grey",
+    "translate": [
+      210,
+      10,
+      5
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  }
+]

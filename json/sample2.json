@@ -1,0 +1,184 @@
+[
+  {
+    "shape": "Cube",
+    "color": "Green",
+    "translate": [
+      100,
+      0,
+      100
+    ],
+    "scale": [
+      20,
+      4,
+      20
+    ]
+  },
+  {
+    "shape": "Cube",
+    "color": "Grey",
+    "translate": [
+      100,
+      30,
+      100
+    ],
+    "scale": [
+      20,
+      2,
+      5
+    ]
+  },
+  {
+    "shape": "Cube",
+    "color": "Grey",
+    "translate": [
+      100,
+      30,
+      50
+    ],
+    "scale": [
+      10,
+      2,
+      5
+    ]
+  },
+  {
+    "shape": "Sphere",
+    "color": "DarkGreen",
+    "translate": [
+      100,
+      30,
+      175
+    ],
+    "scale": [
+      50,
+      30,
+      15
+    ]
+  },
+  {
+    "shape": "Sphere",
+    "color": "DarkGreen",
+    "translate": [
+      100,
+      30,
+      175
+    ],
+    "scale": [
+      50,
+      30,
+      15
+    ]
+  },
+  {
+    "shape": "Sphere",
+    "color": "DarkGreen",
+    "translate": [
+      50,
+      25,
+      175
+    ],
+    "scale": [
+      40,
+      20,
+      10
+    ]
+  },
+  {
+    "shape": "Cube",
+    "color": "Brown",
+    "translate": [
+      175,
+      60,
+      25
+    ],
+    "scale": [
+      1,
+      12,
+      1
+    ]
+  },
+  {
+    "shape": "Sphere",
+    "color": "DarkGreen",
+    "translate": [
+      175,
+      145,
+      25
+    ],
+    "scale": [
+      20,
+      30,
+      20
+    ]
+  },
+  {
+    "shape": "Sphere",
+    "color": "DarkGreen",
+    "translate": [
+      150,
+      135,
+      25
+    ],
+    "scale": [
+      40,
+      20,
+      20
+    ]
+  },
+  {
+    "shape": "Sphere",
+    "color": "DarkGreen",
+    "translate": [
+      175,
+      100,
+      40
+    ],
+    "scale": [
+      20,
+      20,
+      40
+    ]
+  },
+  {
+    "shape": "Cube",
+    "color": "Brown",
+    "translate": [
+      100,
+      55,
+      50
+    ],
+    "scale": [
+      8,
+      1,
+      4
+    ]
+  },
+  {
+    "shape": "Cube",
+    "color": "Black",
+    "translate": [
+      80,
+      40,
+      50
+    ],
+    "scale": [
+      1,
+      3,
+      1
+    ]
+  },
+  {
+    "shape": "Cube",
+    "color": "Black",
+    "translate": [
+      120,
+      40,
+      50
+    ],
+    "scale": [
+      1,
+      3,
+      1
+    ]
+  }
+]
